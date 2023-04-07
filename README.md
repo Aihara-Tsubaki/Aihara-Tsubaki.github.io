@@ -1,7 +1,7 @@
 # 星合の空
 
 欢迎访问我的主页！下面向你介绍一下我吧\~
-
+<!--
 <!-- .slide -->
 
 ## Contact
@@ -87,3 +87,4 @@
 - **Shell**, Familiar&Learning
 - **Git**, Familiar
 - **VSCode**, Familiar
+-->
